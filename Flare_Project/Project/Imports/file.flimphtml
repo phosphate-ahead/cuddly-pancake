@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResourcesLocation="NoImport"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="content"
+  LastImport="2026-06-10T08:24:32.4484815-05:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../External_Files/file.html"
+      AbsoluteSource="file:///C:/Users/ihinkle/Documents/My Projects/SSHTestNew1/External_Files/file.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/file.html"
+      TimeStamp="6/10/2026 8:24:30 AM" />
+    <Url
+      Source="../TOCs/file.fltoc"
+      TimeStamp="6/10/2026 8:24:32 AM" />
+  </GeneratedFiles>
+</HtmlImport>
